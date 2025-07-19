@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+/* INDEX.HTML STYLING */
+
+#index-title {
+    padding: 16px;
+    font-size: 48px;
+}
+
+#recipe-links {
+    background-color: gray;
+    padding: 24px 0px 24px 0px;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#recipe-links a {
+    background-color: lightgray;
+    color: black;
+    padding: 16px 96px 16px 96px;
+    font-size: 36px;
+    text-decoration: none;
+    margin: 16px;
+}
+
+#recipe-links a:hover {
+    background-color: gray;
+    color: white;
+}
+
+#image-gallery {
+    width: 1500px;
+    margin: 32px;
+}
+
+#image-gallery img {
+    height: 300px;
+    width: auto;
+    margin: 16px;
+    border: solid darkslateblue 2px;
+}
+
+/* OMELETTE.HTML STYLING */
